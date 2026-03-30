@@ -84,7 +84,7 @@ async def send_welcome_package(user, context: ContextTypes.DEFAULT_TYPE):
 
 ♻सहायता के लिए @SYVOX007
 🔴हैक का उपयोग कैसे करें
-https://t.me/+PPoQcnJAkKo1N2Y1""",
+https://t.me/+DmyTrk2Ulwk0YmE1""",
                 )
         except Exception as e:
             logging.error(f"APK send error: {e}")
@@ -97,7 +97,7 @@ https://t.me/+PPoQcnJAkKo1N2Y1""",
                     chat_id=user.id,
                     voice=voice,
                     caption="""🎙 सदस्य 9X गुना लाभ का प्रमाण 👇🏻
-https://t.me/+PPoQcnJAkKo1N2Y1
+https://t.me/+DmyTrk2Ulwk0YmE1
 
 ♻सहायता के लिए @SYVOX007
 लगातार नंबर पे नंबर जीतना 🤑♻👑""",
